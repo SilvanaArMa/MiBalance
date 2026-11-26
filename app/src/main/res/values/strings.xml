@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="app_name">MiBalance</string>
+
+
+    <string name="nombre_app">MiBalance</string>
+    <string name="eslogan">Tus finanzas claras y sencillas</string>
+    <string name="beneficio_uno">✓ Controla tus ingresos y gastos diarios</string>
+    <string name="beneficio_dos">✓ Visualiza tu progreso mensual fácilmente</string>
+    <string name="beneficio_tres">✓ Organiza tus metas y presupuestos</string>
+    <string name="boton_comenzar">Comenzar</string>
+    <string name="mensaje_prototipo">Aplicación desarrollada con fines académicos</string>
+
+
+    <string name="nuevo_movimiento">Nuevo movimiento registrado</string>
+    <string name="proximamente">Próximamente: %s</string>
+
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_movimientos">Movimientos</string>
+    <string name="nav_presupuesto">Presupuesto</string>
+    <string name="nav_metas">Metas</string>
+
+    <string name="saludo_usuario">Hola, Silvana</string>
+    <string name="resumen_mes">Resumen de este mes</string>
+    <string name="saldo_disponible">Saldo disponible</string>
+    <string name="cantidad_saldo">$4,850.00</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="cantidad_ingresos">$7,200.00</string>
+    <string name="gastos">Gastos</string>
+    <string name="cantidad_gastos">$2,350.00</string>
+
+
+    <string name="actividad_mes">Actividad del mes</string>
+    <string name="dia_v">L</string>
+    <string name="dia_a">M</string>
+    <string name="dia_t">Mi</string>
+    <string name="dia_s">J</string>
+    <string name="dia_e">V</string>
+
+
+    <string name="ultimos_movimientos">Últimos movimientos</string>
+    <string name="supermercado">Supermercado</string>
+    <string name="categoria_alimentacion">Alimentación</string>
+    <string name="cantidad_supermercado">-$450.00</string>
+    <string name="pago_quincenal">Pago quincenal</string>
+    <string name="categoria_ingreso">Ingreso</string>
+    <string name="cantidad_quincenal">+$3,500.00</string>
+</resources>
